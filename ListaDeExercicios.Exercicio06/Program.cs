@@ -5,7 +5,7 @@
         // Calcular a média ponderada de duas provas
         static void Main(string[] args)
         {
-            #region imput
+            #region input
             Console.Write("Informe a 1º nota do Aluno: ");
             int nota1 = int.Parse(Console.ReadLine());
 

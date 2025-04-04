@@ -5,7 +5,7 @@
         // Calcular o salário total de um vendedor.
         static void Main(string[] args)
         {
-            #region imput
+            #region input
             Console.Write("Digite o salario base do funcionário: R$ ");
             double salarioBase = double.Parse(Console.ReadLine());
 
